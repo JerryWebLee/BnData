@@ -1,0 +1,22 @@
+{
+    "AutoAddtoOutline": true,
+    "EpubFont": "微软雅黑",
+    "Line": {
+        "Color": "ff000000",
+        "Width": 5
+    },
+    "LinePen": {
+        "Width": 50
+    },
+    "Rectangle": {
+        "Color": "ff000000"
+    },
+    "ShowMode": 2,
+    "tags": {
+        "tags": [
+            {
+                "title": "计算机软硬件概念"
+            }
+        ]
+    }
+}
